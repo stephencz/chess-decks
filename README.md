@@ -25,7 +25,7 @@ To install the Lichesspecker you must:
 
 ## How to Use
 
-After importing the deck into Anki, you can either focus on a specific theme by choosing one of the sixy subdecks or you can use the top-level deck to do puzzles from the enter collection.
+After importing the deck into Anki, you can either focus on a specific theme by choosing one of the sixy subdecks or you can use the top-level deck to do puzzles from the entire collection.
 Be sure to check the options for the top-level deck to ensure that:
 
 1. The number of new cards per day and number of reviews per day is kept to a reasonable number (I use 10 new cards a day with a maximum of 200 reviews). This will keep you from becoming overwhelmed by the sheer number of puzzles.

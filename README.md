@@ -32,3 +32,7 @@ Be sure to check the options for the top-level deck to ensure that:
 2. Under the Display Order option, set "New card gather order" to Random Cards. This will make sure you are being exposed to a variety of puzzle difficulties. Cards were put in the deck starting with the easiest and ending with the hardest. Accordingly, you can change how you are exposed to new puzzles by changing the "new card gather order" option.
 
 ![a screenshot showing puzzle distribution by rating and popularity](screenshot.png)
+
+## Future Plans
+
+I would like to release additional versions of the "Lichesspecker" deck, specifically a condensed version that is more inline with the original Woodpecker Method, include raw PGN files with future releases, and create a basic python application that allows users to create decks according to their own requirements. This application would include features such as theme selection, rating ranges, popularity ranges, and the ability to choose how many cards you want per deck.

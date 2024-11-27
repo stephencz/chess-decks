@@ -22,7 +22,7 @@ The cards use TowelSniffer's excellent [Anki-Chess-2.0](https://github.com/Towel
 To install the Lichesspecker you must:
 
 1. Download and install [Anki](https://apps.ankiweb.net/)
-2. Download the desire .apkg file.
+2. Download the desired .apkg file.
 3. File > Import the .apkg file in Anki.
 
 ## How to Use

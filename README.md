@@ -7,4 +7,4 @@ Chess Decks is a collection of chess related flashcard decks for use with Anki. 
 | Name                      | Content                                           | Cards   |
 |---------------------------|---------------------------------------------------|---------|
 | Opening Identification V1 | Generated using data from [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings), this deck contains over 3,000 openings from both white and black's perspective. The decks are organized by ECO. The purpose of this deck is to help train players to recognize openings from their position. No theory included. | 6,982   |
-| Lichesspecker V1          | The most popular lichess puzzles sorted by theme. All puzzle data was taken from lichess.org's publicly avaialbe [puzzle database](https://database.lichess.org/#puzzles). | ~60,000 |
+| Lichesspecker V1          | The most popular lichess puzzles sorted by theme. All puzzle data was taken from lichess.org's publicly available [puzzle database](https://database.lichess.org/#puzzles). | ~60,000 |
